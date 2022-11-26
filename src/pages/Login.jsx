@@ -6,6 +6,7 @@ const Login = () => {
         <Container>
         <div className='wel'>
             <h1>Welcome to log in page pe kam karo</h1>
+            <h2>ho gaya</h2>
         </div>
         </Container>
     );
